@@ -2,7 +2,7 @@
 
 Directional variation outperforms random mutation on a relatively simple quality-diversity search.
 
-## Run script
+## Run the script
 ```bash
 #!/bin/bash
 python3 -m venv .venv
@@ -18,7 +18,7 @@ pip install -r setup.txt
 python script.py
 ```
 
-## Cite paper
+## Cite the paper
 ```bibtex
 @misc{wang2026isoline,
   title={IsoLine and Gaussian Emitters},
