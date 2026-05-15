@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+comparison_*trial_*.pdf
+
+.DS_Store
+Thumbs.db
