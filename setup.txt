@@ -1,0 +1,4 @@
+matplotlib==3.10.8
+numpy==2.4.4
+ribs==0.10.0
+scipy==1.16.3
